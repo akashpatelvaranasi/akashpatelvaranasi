@@ -96,15 +96,15 @@ Repository
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akashpatelvaranasi&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akashpatelvaranasi&layout=compact)
-
----
-
 ## 🤝 Connect With Me
+
+<p align="center">
+
+<a href="resume/Akash_Patel_Resume.pdf">
+<img src="https://img.shields.io/badge/Download%20Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader">
+</a>
+
+</p>
 
 LinkedIn
 
