@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akash Patel</h1>
 
 <h3 align="center">
-Java Full Stack Developer | Spring Boot | REST API | MySQL
+Java Developer | Spring Boot | REST API | MySQL
 </h3>
 
 <img align="right" width="350"
@@ -13,28 +13,26 @@ src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 - 💻 Java Backend Developer
 - ❤️ Love Building REST APIs
 - 🔥 Spring Security & JWT Authentication
-- 📫 Email: your_email@gmail.com
+- 📫 Email: akashpatelvaranasi21@gmail.com
 
 ---
 
 ## 🚀 Tech Stack
 
 ### Languages
-
-- Java
-- SQL
+- Spring
+- Core Java
 - HTML
 - CSS
-- JavaScript
+- 
 
 ### Backend
 
 - Spring Boot
-- Spring MVC
-- Spring Security
-- Hibernate
+- Spring Security & JWt
 - JPA
 - REST API
+- Microservices
 
 ### Database
 
@@ -42,11 +40,11 @@ src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
 ### Tools
 
-- Git
 - GitHub
-- IntelliJ
+- Eclipse
 - STS
 - Postman
+- VS code
 
 ---
 
@@ -80,11 +78,13 @@ Repository
 ---
 
 ### 📒 Smart Contact Manager
-
+- Register
+- Login
 - User Authentication
 - Contact CRUD
 - Profile Upload
-- Email
+- Email Authecation
+- Payment Gateway
 
 ---
 
