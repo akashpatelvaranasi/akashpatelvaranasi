@@ -98,14 +98,6 @@ Repository
 
 ## 🤝 Connect With Me
 
-<p align="center">
-
-<a href="resume/Akash_Patel_Resume.pdf">
-<img src="https://img.shields.io/badge/Download%20Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader">
-</a>
-
-</p>
-
 LinkedIn
 
 https://linkedin.com/in/akashpatel2408
@@ -113,3 +105,4 @@ https://linkedin.com/in/akashpatel2408
 GitHub
 
 https://github.com/akashpatelvaranasi
+
